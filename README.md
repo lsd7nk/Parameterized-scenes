@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Improved scene loading  
+Improved scene loading/management  
 You no longer have to keep _"DontDestroyOnLoad"_ objects on the scene and pass any parameters to the scene using _"PlayerPrefs"_
 
 ## Implementation
