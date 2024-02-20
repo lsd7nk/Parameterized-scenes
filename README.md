@@ -13,4 +13,4 @@ You no longer need to pass any parameters to the scene using _"PlayerPrefs"_
 - Generating static scene classes using the button in the menu
 
 Each scene starter implements the _"ISceneLoadHandler"_ interface  
-Each scene (represented as a static class) inherits an abstract _"Scene"_ class
+Each scene(represented as a static class) inherits an abstract _"Scene"_ class
