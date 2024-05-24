@@ -1,4 +1,4 @@
-# Parameterized-scenes
+# Parameterized scenes
 
 ## Introduction
 
