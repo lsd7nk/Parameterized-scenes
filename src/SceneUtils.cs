@@ -19,6 +19,9 @@ namespace Utils
             if (!sceneNames.Any())
                 return;
 
+            if (!Directory.Exists(_scriptsFolderPath))
+                Directory.CreateDirectory(_scriptsFolderPath);
+
             foreach (var name in sceneNames)
             {
                 var path = Path.Combine(_scriptsFolderPath, $"{name}.cs");
